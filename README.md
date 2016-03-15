@@ -1,2 +1,1 @@
-# www.throwroses.com
-throwroses home
+# throwroses home

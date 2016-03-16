@@ -14,13 +14,14 @@ html {
     color: #ffffff;
     font-size: 1em;
     line-height: 1.4;
-    background: #000000;
 }
 
 body {
-    background-image: url(/img/bg.jpg);
+    background: #000000 url(/img/bg.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-size: 100% 100%;
 }
 
 /*

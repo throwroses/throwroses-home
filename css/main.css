@@ -18,6 +18,8 @@ html {
 
 body {
     background: #000000 url(/img/bg.jpg) no-repeat center fixed;
+    width: 2048px;
+    height: 1536px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
